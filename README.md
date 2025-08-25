@@ -28,8 +28,6 @@ A full-stack **Job Portal** web application built with **Next.js** and **Postgre
 ```bash
 git clone https://github.com/NAGARAJ8888/jobs-portal.git
 
-
-
 Install dependencies:
 npm install
 
@@ -38,7 +36,8 @@ Create a .env file with your database and JWT secret.
 Run the project:
 npm run dev
 
-
+```
+## Screenshots
 <img width="1920" height="1080" alt="Screenshot (245)" src="https://github.com/user-attachments/assets/47d12bad-c548-4308-bd5e-03e6865fa2a7" />
 
 <img width="1920" height="1080" alt="Screenshot (246)" src="https://github.com/user-attachments/assets/1e30e60e-d57b-4749-82a7-95109f6c07e2" />
