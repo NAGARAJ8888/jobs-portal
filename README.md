@@ -80,7 +80,6 @@ npm run dev
 
 <img width="1920" height="1080" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/483c6467-b22e-43bd-ab09-818c7ef1e620" />
 
-<img width="312" height="285" alt="Screenshot 2025-08-12 195503" src="https://github.com/user-attachments/assets/afb2f663-7206-419b-93a6-5d7ddf4c6e98" />
 
 
 
